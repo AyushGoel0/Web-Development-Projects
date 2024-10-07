@@ -35,9 +35,9 @@ This repository is divided into folders, each representing a different section o
 
 Below are some of the key projects developed as part of this course:
 
-1. **Personal Website** - A fully responsive portfolio website built using HTML, CSS, showcasing my personal projects, skills, and contact information.
+1. **Personal Website** - A fully responsive portfolio website built using HTML, and CSS, showcasing my personal projects, skills, and contact information.
    
-   - [Ayush-Portfolio-Site](https://ayushgoel0.github.io/Ayush-Portfolio-Site/)
+   - [Ayush-Portfolio-Demo-Site](https://ayushgoel0.github.io/Ayush-Portfolio-Demo-Site/)
    - [Ayush-Portfolio-Demo-Site-2](https://ayushgoel0.github.io/Ayush-Portfolio-Demo-Site-2/)
    
 ## Contributing
