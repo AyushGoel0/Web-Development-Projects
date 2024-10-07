@@ -5,11 +5,10 @@ This repository contains web development projects built while following [Angela 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Technologies Used](#technologies-used)
+2. [Course Overview](#course-overview)
 3. [Project List](#project-list)
-4. [How to Use](#how-to-use)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Introduction
 
